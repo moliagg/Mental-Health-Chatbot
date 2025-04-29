@@ -1,0 +1,11 @@
+id,name,profession,specialization,address,city,state,phone,email,website,availability,languages
+1,Dr. Sarah Johnson,Psychiatrist,"Anxiety, Depression","123 Wellness Ave, Suite 200",Springfield,IL,"(555) 123-4567","s.johnson@mindcareclinic.com","https://mindcareclinic.com/johnson","Mon-Fri 9am-5pm","English, Spanish"
+2,Dr. Michael Chen,Psychologist,"Trauma, PTSD","456 Oak St",Denver,CO,"(555) 234-5678","mchen@healingminds.org","https://healingminds.org/chen","Tue-Sat 10am-6pm","English, Mandarin"
+3,Emily Rodriguez,LPC,"Family Counseling, Grief","789 Pine Rd",Austin,TX,"(555) 345-6789","emilyr@balancedlifetx.com","https://balancedlifetx.com/rodriguez","Mon-Thu 8am-4pm","English, Spanish"
+4,Dr. Alicia Thompson,Psychiatrist,"Bipolar Disorder, ADHD","321 Maple Lane",Seattle,WA,"(555) 456-7890","athompson@neurohealth.com","https://neurohealth.com/thompson","Wed-Sun 11am-7pm","English"
+5,James Wilson,LMFT,"Couples Therapy","654 Cedar Blvd",Miami,FL,"(555) 567-8901","jamesw@harmonymft.com","https://harmonymft.com/wilson","Mon-Fri 1pm-9pm","English, Creole"
+6,Dr. Priya Patel,Psychologist,"OCD, Eating Disorders","987 Birch Ct",Chicago,IL,"(555) 678-9012","priya.patel@mindpeace.org","https://mindpeace.org/patel","Mon-Wed 8am-3pm","English, Gujarati"
+7,Sophia Martinez,LCSW,"Teen Counseling","135 Elm St",Phoenix,AZ,"(555) 789-0123","smartinez@youthfirstsw.com","https://youthfirstsw.com/martinez","Thu-Sat 10am-6pm","English, Spanish"
+8,Dr. Robert Kim,Psychiatrist,"Schizophrenia, Geriatric","246 Willow Way",Boston,MA,"(555) 890-1234","rkim@braincarema.com","https://braincarema.com/kim","Tue-Fri 7am-1pm","English, Korean"
+9,Amanda Lee,LPC,"Career Stress, Burnout","369 Redwood Dr",San Francisco,CA,"(555) 901-2345","amanda.lee@worklifebalance.com","https://worklifebalance.com/lee","Mon-Tue 9am-5pm","English, Cantonese"
+10,Dr. Olivia Smith,Psychologist,"Autism Spectrum, Child Therapy","753 Spruce St",Atlanta,GA,"(555) 012-3456","olivia.smith@childdevelop.com","https://childdevelop.com/smith","Wed-Fri 8:30am-4:30pm","English"
